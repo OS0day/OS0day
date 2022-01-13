@@ -3,7 +3,7 @@
 
 ### 你好，世界 👋
 **I'm OS0day,  a Software Engineer in the Medical Industry.**
-- :orange_book: Focusing on DotNet & Go & Java & JavaScript <img align="right" width=45% height=49.5% src="https://os0day.github.io/static-blog-website/images/avatar.png?v=1642048610320"/>
+- :orange_book: Focusing on DotNet & Go & Java & JavaScript 
 - :hammer: Creator of applications and frameworks
 - :meat_on_bone: Meat lover
 - 🤪favorite: Cycling、Photography、Running
