@@ -7,7 +7,7 @@
 - :orange_book: Focusing on DotNet & Go & Java & JavaScript 
 - :hammer: Creator of applications and frameworks
 - :meat_on_bone: Meat lover
-- 🤪favorite: Cycling、Photography、Running
+- 🤪Favorite: Cycling、Photography、Running
 
 ### Last,You can discuss it with me by  [![Email](https://img.shields.io/badge/-os0day@qq.com-D14836?style=flat-square&logo=Gmail&logoColor=fff)](mailto:os0day@qq.com)
 
