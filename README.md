@@ -15,8 +15,6 @@
 
 Recently, I have felt how important communication is for our own professional ability and broadening our horizons as a programmer and a worker in the design industry, so I have created group chats for communication and mutual learning, which is equivalent to a small tea house ☕ on the Internet.
 
-<div>
-<img align="center" width=30% height=30% src="https://cdn.jsdelivr.net/gh/OS0day/MyImagesBed@latest/images/Pasted%20image%2020220213011207.png" alt="程序员茶馆" title="程序员茶馆">
 
 
 
